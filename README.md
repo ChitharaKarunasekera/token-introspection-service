@@ -1,6 +1,6 @@
 # Token Introspection & Validation Service
 
-A microservice implementing **RFC 7662 Token Introspection** built with Java 17 and Spring Boot 3, developed as a hands-on exploration of token lifecycle management in OAuth 2.0 systems.
+A microservice implementing **RFC 7662 Token Introspection** built with Java and Spring Boot, developed as a hands-on exploration of token lifecycle management in OAuth 2.0 systems.
 
 ---
 
